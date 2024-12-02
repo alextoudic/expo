@@ -8,10 +8,15 @@
 
 ### 🐛 Bug fixes
 
-- [android] fix notifications with custom sounds treated as silent ([#33311](https://github.com/expo/expo/pull/33311) by [@pennersr](https://github.com/pennersr))
 - [android] fix missing data for notifications with channel aware trigger ([#33354](https://github.com/expo/expo/pull/33354) by [@alextoudic](https://github.com/alextoudic))
 
 ### 💡 Others
+
+## 0.29.10 - 2024-12-02
+
+### 🐛 Bug fixes
+
+- [android] fix notifications with custom sounds treated as silent ([#33311](https://github.com/expo/expo/pull/33311) by [@pennersr](https://github.com/pennersr))
 
 ## 0.29.9 - 2024-11-29
 
